@@ -1,4 +1,3 @@
-// src/App.tsx
 import React, { useState, useEffect } from 'react';
 import { lancer, getScore } from './api';
 import './App.css';

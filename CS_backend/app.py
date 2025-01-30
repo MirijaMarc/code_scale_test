@@ -1,4 +1,3 @@
-# backend/app.py
 from flask import Flask, request, jsonify
 from jeu import Jeu
 from flask_cors import CORS  # Importer CORS

@@ -1,4 +1,3 @@
-// src/api.ts
 
 const API_URL = 'http://localhost:5000';
 

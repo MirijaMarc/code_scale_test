@@ -4,7 +4,7 @@ class Jeu:
         self.partie_actuelle = 0  # Partie en cours
 
     def lancer(self, quilles: int):
-        """Enregistre le nombre de quilles tombées pour un lancer."""
+        #Enregistre le nombre de quilles tombées pour un lancer.
         if self.partie_actuelle >= 5:
             return  # Fin du jeu
 
